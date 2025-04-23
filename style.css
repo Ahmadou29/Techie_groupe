@@ -1,0 +1,21 @@
+/* section-service */
+.barre-bleu{
+    height: 3px;
+    width: 50px;
+    background-color: rgb(88, 70, 249);
+}
+.icon-service{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25vh;
+    height: 15vh;
+    background-color: rgb(238, 236, 254);
+    font-size: 38px;
+
+}
+.icon-service:hover{
+    color: #fff !important;
+    background-color: rgb(88, 70, 249);
+}
