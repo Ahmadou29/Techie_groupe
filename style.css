@@ -4,11 +4,7 @@
     width: 50px;
     background-color: rgb(88, 70, 249);
 }
-.icon-service{
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.icon-service{ 
     width: 25vh;
     height: 15vh;
     background-color: rgb(238, 236, 254);
@@ -18,4 +14,10 @@
 .icon-service:hover{
     color: #fff !important;
     background-color: rgb(88, 70, 249);
+}
+.icon-Features{
+    font-size: 45px;
+}
+.Testimonials{
+    background-color: rgb(247, 246, 254);
 }
