@@ -21,3 +21,11 @@
 .Testimonials{
     background-color: rgb(247, 246, 254);
 }
+/* Container-carosel */
+.icon-carosel {
+    color: rgb(135, 135, 248);
+}
+.card-img-bottom{
+            width: 12vh !important;
+            margin-top: -35px;
+}
