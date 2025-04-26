@@ -52,12 +52,12 @@ header .nav-item .nav-link:hover::after{
     animation: move 3s infinite alternate ease-in-out;
 }
 
-.btn:hover{
+header .btn:hover{
     overflow: hidden;
     transform: scale(1.1);
-    transition: all 2s;
+    transition: all 1s;
     background-color: white;
-    color: red;
+    color: #7341d3 !important;
 }
 
 @keyframes move {
@@ -69,6 +69,6 @@ header .nav-item .nav-link:hover::after{
     }
 }
 
-/* §section{ */
-    /* height: 100vh; */
+ section{ 
+    height: 100vh;
 }
