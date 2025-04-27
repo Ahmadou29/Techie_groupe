@@ -1,0 +1,22 @@
+/* ----------------------------------------------section team -------------------------------------------------------------- */
+
+.hr{
+    width: 60px;
+    height: 5px;
+    background-color: #5846f9;
+    position: relative;
+    left: 48%;
+}
+.shadow:hover{
+    transform: scale(1.05)
+}
+.icone{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    bottom: 270px;
+    left: 280px; 
+    color: gray;
+    font-size: 20px;
+   
+}
